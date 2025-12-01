@@ -494,6 +494,9 @@ class FireCloneApp(MDApp):
         self.score_label.text = f"Score: {self.game.score}"
         if self.game.game_over:
             self.health_label.text = "GAME OVER!"
+
+
+            # Test trigger
             self.score_label.text = f"Final Score: {self.game.score}"
 
 
