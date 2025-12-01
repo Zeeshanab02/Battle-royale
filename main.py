@@ -502,3 +502,4 @@ class FireCloneApp(MDApp):
 
 if __name__ == "__main__":
     FireCloneApp().run()
+# Test trigger v2 - building APK!
